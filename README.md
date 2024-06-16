@@ -1,6 +1,6 @@
 # NREGA-POWER-BI-DASHBOARD
 <br>
-This project aims to analyze and visualize the NREGA dataset to extract meaningful insights.
+This project aims to analyze and visualize the NREGA dataset to extract meaningful insights.<br>
 The scope includes:
 ● Data preprocessing and cleaning to ensure data quality.<br>
 ● Exploratory data analysis (EDA) to identify patterns, trends, and disparities in
